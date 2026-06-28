@@ -14,7 +14,6 @@ Tahun Akademik 2025/2026
 
 ---
 
-![Status](https://img.shields.io/badge/Status-Selesai-success?style=for-the-badge)
 ![Project](https://img.shields.io/badge/Project-UAS-blue?style=for-the-badge)
 ![Platform](https://img.shields.io/badge/Platform-VirtualBox-orange?style=for-the-badge)
 ![OS](https://img.shields.io/badge/Ubuntu-Server-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
